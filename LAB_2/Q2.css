@@ -1,0 +1,38 @@
+*{
+    padding:0px ;
+    margin: 0px ;
+    box-sizing: border-box;
+    background-color: beige;
+}
+body{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+span{
+    font-size: large;
+    font-weight: 900;
+}
+
+p{
+    width: 900px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 980px;
+    top: 40px;
+}
+
+table,tr,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
